@@ -11,11 +11,6 @@
       "ancestry": "",
       "eyeColour": "",
       "hairColour": "black",
-      "wand": {
-        "wood": "",
-        "core": "",
-        "length": ""
-      },
       "patronus": "tabby cat",
       "hogwartsStudent": false,
       "hogwartsStaff": true,
@@ -34,11 +29,6 @@
       "ancestry": "half-blood",
       "eyeColour": "black",
       "hairColour": "black",
-      "wand": {
-        "wood": "",
-        "core": "",
-        "length": ""
-      },
       "patronus": "doe",
       "hogwartsStudent": false,
       "hogwartsStaff": true,
@@ -57,11 +47,6 @@
       "ancestry": "half-blood",
       "eyeColour": "black",
       "hairColour": "black",
-      "wand": {
-        "wood": "oak",
-        "core": "",
-        "length": 16
-      },
       "patronus": "",
       "hogwartsStudent": false,
       "hogwartsStaff": true,
@@ -80,11 +65,6 @@
       "ancestry": "half-blood",
       "eyeColour": "green",
       "hairColour": "brown",
-      "wand": {
-        "wood": "cypress",
-        "core": "unicorn tail-hair",
-        "length": 10.25
-      },
       "patronus": "wolf",
       "hogwartsStudent": false,
       "hogwartsStaff": true,
@@ -103,11 +83,6 @@
       "ancestry": "pure-blood",
       "eyeColour": "green",
       "hairColour": "blonde",
-      "wand": {
-        "wood": "cedar",
-        "core": "dragon heartstring",
-        "length": 10.25
-      },
       "patronus": "",
       "hogwartsStudent": false,
       "hogwartsStaff": true,
@@ -126,11 +101,6 @@
       "ancestry": "half-blood",
       "eyeColour": "brown",
       "hairColour": "grey",
-      "wand": {
-        "wood": "birch",
-        "core": "dragon heartstring",
-        "length": 8
-      },
       "patronus": "persian cat",
       "hogwartsStudent": false,
       "hogwartsStaff": true,
@@ -149,11 +119,6 @@
       "ancestry": "",
       "eyeColour": "yellow",
       "hairColour": "brown",
-      "wand": {
-        "wood": "",
-        "core": "",
-        "length": ""
-      },
       "patronus": "",
       "hogwartsStudent": false,
       "hogwartsStaff": true,
@@ -172,11 +137,6 @@
       "ancestry": "squib",
       "eyeColour": "",
       "hairColour": "grey",
-      "wand": {
-        "wood": "",
-        "core": "",
-        "length": ""
-      },
       "patronus": "",
       "hogwartsStudent": false,
       "hogwartsStaff": true,
@@ -312,11 +272,7 @@
       "ancestry": "",
       "eyeColour": "brown",
       "hairColour": "black",
-      "wand": {
-        "wood": "",
-        "core": "",
-        "length": ""
-      },
+      
       "patronus": "swan",
       "hogwartsStudent": true,
       "hogwartsStaff": false,
@@ -358,11 +314,6 @@
       "ancestry": "",
       "eyeColour": "grey",
       "hairColour": "blonde",
-      "wand": {
-        "wood": "",
-        "core": "",
-        "length": ""
-      },
       "patronus": "hare",
       "hogwartsStudent": true,
       "hogwartsStaff": false,
@@ -404,11 +355,6 @@
       "ancestry": "pure-blood",
       "eyeColour": "black",
       "hairColour": "black",
-      "wand": {
-        "wood": "",
-        "core": "",
-        "length": ""
-      },
       "patronus": "",
       "hogwartsStudent": true,
       "hogwartsStaff": false,
@@ -427,28 +373,12 @@
       "ancestry": "pure-blood",
       "eyeColour": "",
       "hairColour": "brown",
-      "wand": {
-        "wood": "",
-        "core": "",
-        "length": ""
-      },
       "patronus": "",
       "hogwartsStudent": true,
       "hogwartsStaff": false,
       "actor": "Josh Herdman",
       "alive": true,
       "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
-    },
-    {
-      "name": "Nombre",
-      "dateOfBirth": "01-01-2020",
-      "eyeColour": "Rojos",
-      "hairColour": "Rojo",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
-      "alive": true,
-      "image": null,
-      "id": 20
     }
   ]
 }
